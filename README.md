@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - I’m currently **focus on**
   - [Rolldown](https://github.com/Brooooooklyn/rolldown) as collaborator.
   - [vite-on-swc](https://github.com/iheyunfei/vite-on-swc/) as author.
-  - [vite](https://github.com/vitejs/vite) as contributor.
+  - [Vite](https://github.com/vitejs/vite) as contributor.
 - I’m currently **learning**
   - Rust
   - SWC
