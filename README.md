@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 
 - I’m currently **focus on**
   - [Rolldown](https://github.com/Brooooooklyn/rolldown) as collaborator.
+  - [pieces-js](https://github.com/iheyunfei/pieces-js) as auther.
   - [vite-on-swc](https://github.com/iheyunfei/vite-on-swc/) as author.
   - [Vite](https://github.com/vitejs/vite) as contributor.
 - I’m currently **learning**
