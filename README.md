@@ -23,13 +23,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- I’m currently **focus on**
-  - [Rolldown](https://github.com/Brooooooklyn/rolldown) as collaborator.
-  - [pieces-js](https://github.com/iheyunfei/pieces-js) as author.
-  - [vite-on-swc](https://github.com/iheyunfei/vite-on-swc/) as author.
-  - [Vite](https://github.com/vitejs/vite) as contributor.
-- I’m currently **learning**
-  - Rust
-  - SWC
+- I’m currently **focusing on**
+  - the POC version of [Rolldown](https://github.com/Brooooooklyn/rolldown).
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=iheyunfei.iheyunfei-badge&left_color=green&right_color=red)
