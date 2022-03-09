@@ -3,7 +3,7 @@
 ---
 
 <h4>
-  <a href="https://yunfeihe.notion.site/Yunfei-He-877eea4afabc4fdfafa86969bd08f611">Blog(CN)</a> • <a href="https://twitter.com/iheyunfei">Twitter</a>
+  <a href="https://ihyf.me/">Blog(CN)</a> • <a href="https://twitter.com/iheyunfei">Twitter</a>
 </h4>
 
 ---
