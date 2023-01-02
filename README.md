@@ -3,7 +3,7 @@
 ---
 
 <h4>
-  <a href="https://ihyf.me/">Blog(CN)</a> • <a href="https://twitter.com/iheyunfei">Twitter</a>
+  <a href="https://hyf.me/">Blog(CN)</a> • <a href="https://twitter.com/iheyunfei">Twitter</a>
 </h4>
 
 ---
