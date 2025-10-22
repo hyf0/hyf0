@@ -3,7 +3,7 @@
 ---
 
 <h4>
-  <a href="https://hyf.me/">Blog(CN)</a> • <a href="https://twitter.com/_hyf0">Twitter</a>
+  <a href="https://hyf.me/">Blog</a> • <a href="https://twitter.com/_hyf0">Twitter</a> • <a href="https://x.com/_hyf0_cn">Twitter(CN)</a>
 </h4>
 
 ---
@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- I’m currently **focusing on**
-  - the POC version of [Rolldown](https://github.com/rolldown/rolldown).
+- I’m currently **focusing on** [Rolldown](https://github.com/rolldown/rolldown).
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=iheyunfei.iheyunfei-badge&left_color=green&right_color=red)
+![visitors](https://komarev.com/ghpvc/?username=hyf0)
