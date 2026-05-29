@@ -13,7 +13,7 @@ I work on **[Rolldown](https://github.com/rolldown/rolldown)**, the Rust bundler
 
 #### 📦 Archived experiments
 
-- **[libvue-rs](https://github.com/hyf0/libvue-rs)** — Vue's template compiler as native code, callable from Rust (no JS runtime).
+- **[libvue-rs](https://github.com/hyf0/libvue-rs)** — compiles Vue's JavaScript compiler to C with Static Hermes, callable from Rust without a JS runtime.
 - **[notion-renderer](https://github.com/hyf0/notion-renderer)** — a renderer for Notion built on the official API.
 
 ![visitors](https://komarev.com/ghpvc/?username=hyf0)
