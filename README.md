@@ -11,4 +11,9 @@ I work on **[Rolldown](https://github.com/rolldown/rolldown)**, the Rust bundler
 - **[vue-tui](https://github.com/vuejs-ai/vue-tui)** — Vue for terminal & AI-agent UIs.
 - **[sugar_path](https://github.com/hyf0/sugar_path)** — path-manipulation utilities for Rust.
 
+#### 📦 Archived experiments
+
+- **[libvue-rs](https://github.com/hyf0/libvue-rs)** — Vue's template compiler as native code, callable from Rust (no JS runtime).
+- **[notion-renderer](https://github.com/hyf0/notion-renderer)** — a renderer for Notion built on the official API.
+
 [![Yunfei's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyf0&show_icons=true&hide_border=true&theme=transparent&title_color=8b949e&text_color=8b949e&icon_color=8b949e)](https://github.com/hyf0)
