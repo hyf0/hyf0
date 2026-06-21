@@ -9,7 +9,7 @@ I work on **[Rolldown](https://github.com/rolldown/rolldown)**, the Rust bundler
 #### 🔭 Side quests
 
 - **[vue-tui](https://github.com/vuejs-ai/vue-tui)** — A Vue 3 library for building terminal UIs.
-- **[machud](https://github.com/hyf0/machud)** — Activity Monitor for your terminal, built for macOS.
+- **[machud](https://github.com/hyf0/machud)** — Activity Monitor in your terminal, built for macOS.
 - **[sugar_path](https://github.com/hyf0/sugar_path)** — path-manipulation utilities for Rust.
 
 #### 📦 Archived experiments
