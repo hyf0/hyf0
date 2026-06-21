@@ -12,6 +12,10 @@ I work on **[Rolldown](https://github.com/rolldown/rolldown)**, the Rust bundler
 - **[machud](https://github.com/hyf0/machud)** — Activity Monitor in your terminal, built for macOS.
 - **[sugar_path](https://github.com/hyf0/sugar_path)** — path-manipulation utilities for Rust.
 
+**🤖 AI**
+
+- **[project-context-records](https://github.com/hyf0/project-context-records)** — a context-engineering methodology that keeps a project's beyond-the-code context legible to AI.
+
 #### 📦 Archived experiments
 
 - **[libvue-rs](https://github.com/hyf0/libvue-rs)** — compiles Vue's JavaScript compiler to C with Static Hermes, callable from Rust without a JS runtime.
